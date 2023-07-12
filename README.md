@@ -1,3 +1,3 @@
-# plog_commit
+# plog_coms
 
-用于存放博客gitalk的commit的仓库。
+用于存放博客gitalk的评论的仓库。
